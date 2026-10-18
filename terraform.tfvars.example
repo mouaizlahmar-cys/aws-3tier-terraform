@@ -1,0 +1,10 @@
+# AWS Region
+aws_region = "eu-north-1"
+
+# Environment Name
+environment = "dev"
+
+# Database Configuration (مثال فقط - لا تضع كلمة المرور الحقيقية هنا)
+db_name     = "mydatabase"
+db_username = "dbadmin"
+db_password = "YourStrongPasswordHere123!"
